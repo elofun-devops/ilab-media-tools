@@ -73,6 +73,7 @@ return [
 	                'cn-north-1' => 'China (Beijing)',
 	                'cn-northwest-1' => 'China (Ningxia)',
 	                'custom' => 'Custom',
+                    'Global' => 'Global',
                 ],
             ],
 	        "mcloud-storage-s3-custom-region" => [
